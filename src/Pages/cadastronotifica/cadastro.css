@@ -1,0 +1,37 @@
+.background{
+    background: #EDF0F5;
+}
+
+.secondBackground{
+    background: #FAFAFA;
+    border-radius: 20px;
+    height: 720px;
+}
+
+.tabTitle{
+    height: 45px;
+    background: #F5F8FF;
+    border-radius:  20px 20px 0px 0px ;
+    border-bottom: 1px solid #CFD2D7;
+    position: relative;
+  
+}
+.tabTitle h1{
+    margin-left: 30px;
+    padding: 5px 0;
+    font-size: 1.7em;
+}
+.button{
+    display: flex;
+    flex-direction: column-reverse;
+    font-weight: bolder;
+    margin-left: 0px !important;
+}
+
+span.css-1a9nq3r-MuiSwitch-root{
+    margin-left: -10px !important ;
+}
+span.css-ahj2mt-MuiTypography-root{
+    font-weight: bolder;
+}    
+
